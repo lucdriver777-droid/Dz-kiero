@@ -1,9 +1,10 @@
 const CACHE_NAME = 'driverlog-v1';
 const CORE_ASSETS = [
-  './index.html',
-  './manifest.webmanifest',
-  './icon-192.png',
-  './icon-512.png'
+  '/Dz-kiero/index.html',
+  '/Dz-kiero/manifest.webmanifest',
+  '/Dz-kiero/ikona-192.png',
+  '/Dz-kiero/ikona-512.png'
+];'
 ];
 
 self.addEventListener('install', (e) => {
